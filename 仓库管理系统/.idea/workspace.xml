@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1859a7be-12e8-4c01-85f4-0ae56d55101d" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2Psc7rurmdUfRtgKpArxSj9aLPq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/仓库管理系统/ERPSystem" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.scopes" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1859a7be-12e8-4c01-85f4-0ae56d55101d" name="默认更改列表" comment="" />
+      <created>1684249065926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684249065926</updated>
+      <workItem from="1684249067184" duration="2000" />
+      <workItem from="1684249585197" duration="902000" />
+      <workItem from="1684251029595" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="475" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1684250483267">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="475" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1684250483267" />
+    <state x="782" y="413" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1684250170375">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="782" y="413" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1684250170375" />
+    <state x="517" y="101" key="#项目结构" timestamp="1684250217299">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="517" y="101" key="#项目结构/0.0.1920.1032@0.0.1920.1032" timestamp="1684250217299" />
+    <state x="752" y="221" key="FileChooserDialogImpl" timestamp="1684251050309">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="752" y="221" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1684251050309" />
+    <state x="402" y="0" key="SettingsEditor" timestamp="1684250195987">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="402" y="0" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1684250195987" />
+    <state x="741" y="421" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1684249470614">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="741" y="421" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1684249470614" />
+  </component>
+</project>

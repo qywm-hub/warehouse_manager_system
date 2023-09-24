@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title></title>
+    <style>
+        #mydiv{
+            width: 100px;
+            height: 100px;
+            background-color: pink;
+        }
+    </style>
+
+    <script>
+        //计算面积并且显示面积
+        function JiSuan(){
+            //获取长宽计算面积
+            var schang= document.getElementById("chang").value;
+            var skuan= document.getElementById("kuan").value;
+            a=parseInt(schang);
+            b=parseInt(skuan);
+            s=a*b
+            //显示计算结果
+            document.getElementById("mianji").innerHTML=s;
+            var mydiv=document.getElementById("mydiv");
+            //获取长宽给div改变长宽
+            var mchang=document.getElementById("chang");
+            var mkuang=document.getElementById("kuan");
+            mydiv.style.width=mchang.value +"px";
+            mydiv.style.height=mkuang.value +"px";
+        }
+        //改变颜色
+        function YanSe() {
+            //获取div
+            var div=document.getElementById("mydiv");
+            div.style.backgroundColor=randomColor();
+            //随机颜色写法rgba
+            function randomColor() {
+                var col="rgba(";
+                for(var i=0;i<3;i++){
+                    col+=Math.floor(Math.random()*256)+",";
+                }
+                col+=Math.random().toFixed(2)+")";
+                return col;
+            }
+        }
+    </script>
+</head>
+<body>
+长：<input type="text" id="chang" value="" size="10"/>
+<br><br>
+宽：<input type="text" id="kuan" value="" size="10"/>
+<br />
+<br/>
+<input type="button" name="jisuan"  value="计算并显示面积" onclick="JiSuan()"/>
+<input type="button" name="yanse"  value="改变颜色" onclick="YanSe()"/>
+<br><br>
+</p>
+<p id="mianji"  class="xianshi" style="font-size:18px;">此处显示面积</p
+<div id="mydiv"></div>
+</body>
+</html>

@@ -1,0 +1,14 @@
+jdk：1.7 1.8 
+eclipse 
+tomcat7.0
+MySQL5.7
+
+开发工具链接：http://programmer.ischoolbar.com/index.php/article/article/id/9.html
+
+eclipse配置tomcat：http://programmer.ischoolbar.com/index.php/article/article/id/10.html
+
+安装MySQL：http://programmer.ischoolbar.com/index.php/article/article/id/140.html
+
+navicat工具：http://programmer.ischoolbar.com/index.php/article/article/id/97.html
+
+
